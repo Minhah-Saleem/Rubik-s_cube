@@ -1,5 +1,5 @@
 # Rubik-s_cube
-Solving Rubik's cube using Reinforcement Learning
+Solving Rubik's cube using Reinforcement Learning \n
 Reference: https://github.com/azaharyan/DeepCube/tree/main
 This code implements a reinforcement learning model to solve the Rubik's Cube problem. The
 code can be broadly divided into the following parts:
